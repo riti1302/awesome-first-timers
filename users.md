@@ -39,6 +39,11 @@
   GitHub: [iamonuwa](https://github.com/iamonuwa)  
   Facebook: [iamonuwa](https://facebook.com/iamonuwa)  
   
+- Name: Ritika Kumari  
+- Place: India  
+- Bio: Programmer and new to open source  
+- Github: [riti1302](https://github.com/riti1302)  
+  
 - Name: James George <br>
   Place: Kerala, India <br>
   Bio: Full Stack Web Developer, Android Developer, Pen Tester, Youtuber, Blogger. <br>
